@@ -7,7 +7,7 @@ This project studied the kinds of attributes that can lead to more popular movie
 ## Introduction
 ---
 
-The data that is investigated is TMDb movie data that contains information for about 10,000 movies. Certain movies have high popularity and high revenue while some have not. Using the data provided, investigation can be done to study kinds of attributes that can lead to more popular movie and better movie's revenue. This report will focus on answering three questions:
+The data that is investigated is TMDb movie data that contains information for about 10,000 movies. Certain movies have high popularity and high revenue while some have not. Using the data provided, investigation can be done to study kinds of attributes that can lead to more popular movie and better movie's revenue. This report will focus on answering four questions:
 
 1) Which genres are most popular from year to year? 
 
